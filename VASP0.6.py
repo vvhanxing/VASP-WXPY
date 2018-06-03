@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Improve and use it free !
 import wx 
  
 class MDIFrame(wx.MDIParentFrame): 
